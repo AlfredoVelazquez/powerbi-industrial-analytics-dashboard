@@ -1,28 +1,24 @@
-# Power BI Industrial Analytics Dashboard
+# Power BI Learning Journey
 
-Proyecto de análisis de datos industriales desarrollado en Power BI, orientado al monitoreo de producción, tiempos operativos, calidad y eficiencia.
+Repositorio de prácticas, ejercicios y proyectos desarrollados durante el aprendizaje de Power BI, incluyendo transformación de datos, modelado, visualizaciones y análisis.
 
-## Objetivo
+## Contenido
 
-Construir un dashboard interactivo que permita visualizar indicadores clave de una operación industrial utilizando datos simulados.
+- Importación de datos
+- Power Query
+- Formato y modelado
+- Tablas y matrices
+- KPIs
+- Visualizaciones
+- DAX (próximamente)
 
-## Tecnologías
+## Herramientas
 
 - Power BI
-- Power Query
-- DAX
-- Excel / CSV
+- Excel
+- TXT/CSV
 - GitHub
 
-## Indicadores principales
-
-- Producción total
-- Eficiencia operativa
-- Tiempo muerto
-- Scrap
-- Producción por turno
-- Análisis por centro de trabajo
-
-## Estado del proyecto
+## Estado
 
 En desarrollo.
